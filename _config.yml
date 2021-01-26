@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Michael Willingham
-logo: '/images/logo.png'
+logo: '/images/site-logo.png'
 description: Michael Willingham - Musings on .NET, DevOps, and Cloud
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
