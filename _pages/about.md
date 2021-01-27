@@ -35,11 +35,19 @@ My interest in tech really took off in college, when I made the impressively foo
 
 After facing the reality that I was *not* going to be the next Zuckerberg-esque billionaire, I re-enrolled in school. I decided to abandon my finance major, and pivoted to the most tech-oriented program that the McCombs School of Business had to offer - Management Information Systems (MIS). I had the great pleasure of learning from professors that challenged my overconfidence, opened my eyes up to new ways of thinking, and taught me how to efficiently learn things on my own.
 
-I was blessed with a job offer after graduation at a small consulting firm, <a href="https://headspring.com">Headspring</a>. It was here where rubber really started to meet the road. Headspring graciously invested 6 weeks to intensively train my class of junior consultants (pictured in front of the Headspring building) in all things .NET. This was led by one of the smartest developers I have ever come across, Patrick Lioi. After training, I got a desk that was located right next to <a href="https://jimmybogard.com/">Jimmy Bogard</a>, one of the most well-known figures in the .NET world. I got to soak up troves of wisdom by overhearing his architectural calls with big-name clients. I was also blessed to be under the supervision of two incredible tech leads in my project work, Ben Boehme and Kurt Johnson. Ben is pictured next to me in the basketball photo, and Kurt is pictured with me at a Texas football game. These men not only helped me grow in my career, but invested their time to form a genuine relationship with me. My coach/mentor, Matt Siegel, challenged me regularly to be *excellent* at my job. A few of the older Christian men at the company provided me with abundant wise counsel and spiritual fellowship. The way all these factors came together convinced me that this was meant to be my calling in terms of a career. Not to sound sappy, but the relationships here were by far the best part of it all. Headspring has permanently etched itself a place in my heart, and I am incredibly grateful for all they've provided me.
+I was blessed with a job offer after graduation at a small consulting firm called <a href="https://headspring.com">Headspring</a>. It was here where rubber really started to meet the road. Headspring graciously invested 6 weeks to intensively train my class of junior consultants (pictured in front of the Headspring building) in all things .NET. This was led by one of the smartest developers I have ever come across, Patrick Lioi (pictured on the far right). 
 
 <img src="/images/headspring-class.jpeg">
+
+After training, I got a desk that was located right next to <a href="https://jimmybogard.com/">Jimmy Bogard</a>, one of the most well-known figures in the .NET world. I got to soak up troves of wisdom by overhearing his architectural calls with big-name clients. I was also blessed to be under the supervision of two incredible tech leads in my project work, Ben Boehme and Kurt Johnson. Ben is pictured next to me in the basketball photo, and Kurt is pictured with me at a Texas football game. These men not only helped me grow in my career, but invested their time to form a genuine relationship with me.
+
 <img src="/images/headspring-bball.jpeg">
+<br />
 <img src="/images/kurt.jpeg">
+
+My Headspring coach/mentor, Matt Siegel, challenged me regularly to be *excellent* at my job and was unafraid to tell me the areas where I could improve. A few of the older Christian men at the company abundantly provided me with wise counsel and spiritual fellowship. The way all these factors came together convinced me that this career was meant to be my calling. Not to sound sappy, but the relationships were by far the best part. Headspring has permanently etched itself a place in my heart, and I am incredibly grateful for all they've provided me.
+
+### My next chapter...
 
 In mid-2020, I was offered an exciting new opportunity with <a href="https://www2.deloitte.com/us/en/pages/technology/solutions/application-modernization.html">Deloitte's Application Modernization Studio</a>. This team was originally a German startup that was acquired by Deloitte in 2017, and they had several lofty initiatives that were just starting during the time of my interviews - moving from SVN to git; migrating to AWS; and expanding their .NET expertise. The prospect of helping an organization with these efforts from the ground-up was impossible for me to turn down. My official title is "Build Engineer", but I have been given plenty of autonomy and trust to get my hands dirty with several different topics - including some .NET development, which is admittedly still my favorite. So far I am enjoying the experience of working for a big, multi-national firm that has its hands in almost everything. I've been blessed here with awesome mentors and co-workers, both in Germany and in Austin, who truly care about my success. I'm genuinely excited for what the future holds here. For those of you that are interested, I have attached a short video on what the Studio does at a high level.
 
@@ -57,10 +65,15 @@ I'll keep this part short. I follow these teams with a fiery passion:
 * The Pittsburgh Steelers
 * The Gooners (Arsenal)
 
-My proudest accomplishment to date* is <a href="https://texas.forums.rivals.com/threads/flight-tracking-alert.501401/">my thread on Orangebloods</a>, which orchestrated the wild Urban Meyer to Texas flight-tracking saga of Winter 2020. I also believe that Luka will win MVP this year, and I'm willing to die on that hill. In general - if your sporting interests align with any of fine organizations I've listed off, we will probably be friends.
+My proudest accomplishment to date* is <a href="https://texas.forums.rivals.com/threads/flight-tracking-alert.501401/">my thread on Orangebloods</a>, which orchestrated the wild Urban Meyer to Texas flight-tracking saga of Winter 2020. It was <a href="https://www.outkick.com/urban-meyer-horseshoe-bay-texas-resort-fox-sport/">hot news</a> for a week.
 
 <img src="/images/texas.jpeg">
+
+I also believe that Luka will win MVP this year, and I'm willing to die on that hill. Want to know stats about the Mavs running a historically efficient offense last year? I'm your guy.
+
 <img src="/images/cuban.jpeg">
+
+ In general - if your sporting interests align with any of the fine organizations I've listed off, we will probably be friends.
 
 Outside of just watching sports, I actively try to play basketball as much possible. It was my central out-of-school activity for many years growing up, and the sport has been an important part of my life. From my recent, <a href="https://leagues.uhlife.com/profile_career.aspx?RegionID=10&SeasonDivisionID=3220&PlayerID=34170">statistically *dominant***</a> 2019 season playing with Life Time, I think it is fair to say that I've still got it.
 
@@ -77,9 +90,13 @@ Outside of just watching sports, I actively try to play basketball as much possi
 My primary hobbies outside of tech and sports include exploring the outdoors (namely via hiking and skiing), homebrewing beer, dishing out political hot takes to my friends, nerding out on history, and being a self-nominated *elite* movie-picker and Spotify playlist-maker. If I have anything neat to share in these regards, I'll be sure to post it here.
 
 <img src="/images/rmnp.jpeg">
+<br />
 <img src="/images/homebrew.jpeg">
+<br />
 <img src="/images/winterblondes.jpeg">
+<br />
 <img src="/images/skiing.jpeg">
+<br />
 <img src="/images/supreme-court.jpeg">
 
 <br />
@@ -97,10 +114,6 @@ If you actually cared enough to read to this point, you're a trooper. I apprecia
 With love,
 
 Michael
-
-<br />
-
-<hr>
 
 <br />
 
