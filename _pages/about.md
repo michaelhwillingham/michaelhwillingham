@@ -72,13 +72,13 @@ My Headspring coach/mentor, Matt Siegel, challenged me regularly to be *excellen
 
 ### My next chapter...
 
-In mid-2020, I was offered an exciting new opportunity with <a href="https://www2.deloitte.com/us/en/pages/technology/solutions/application-modernization.html">Deloitte's Application Modernization Studio</a>. This team was originally a German startup that was acquired by Deloitte in 2017, and they had several lofty initiatives that were just starting during the time of my interviews - moving from SVN to git; migrating to AWS; and expanding their .NET expertise. The prospect of helping an organization with these efforts from the ground-up was impossible for me to turn down. My official title is "Build Engineer", but I have been given plenty of autonomy and trust to get my hands dirty with several different topics - including some .NET development, which is admittedly still my favorite. So far I am enjoying the experience of working for a big, multi-national firm that has its hands in almost everything. I've been blessed here with awesome mentors and co-workers, both in Germany and in Austin, who truly care about my success. I'm genuinely excited for what the future holds here. For those of you that are interested, I have attached a short video on what the Studio does at a high level.
+In mid-2020, I was offered an exciting new opportunity with <a href="https://www2.deloitte.com/us/en/pages/technology/solutions/application-modernization.html">Deloitte's Application Modernization Studio</a>. This team was originally a German startup that was acquired by Deloitte in 2017, and they had several lofty initiatives that were just starting during the time of my interviews - moving from SVN to git; migrating to AWS; and expanding their .NET expertise. The prospect of helping an organization with these efforts from the ground-up was impossible for me to turn down. My official title is "Build Engineer", but I have been given plenty of autonomy and trust to get my hands dirty with several different topics - including some .NET development, which is admittedly still my favorite. So far I am enjoying the experience of working for a big, multi-national firm that has its hands in almost everything. I've been blessed with awesome Deloitte mentors and co-workers, both in Germany and in Austin, who truly care about my success. I'm genuinely excited for what the future holds here. The video below shows what the Studio does at a high level if you are curious.
 
 <iframe width="100%" height="50" src="https://www.youtube.com/embed/u_YKjFka_Iw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
 
-My passion for software development has grown to be much more than something that pays the bills. I am pursuing a Masters in Computer Science degree through Arizona State (go Sun Devils) in my free time. I earned my Associate AWS Solutions Architect certification in college, and am currently studying for the Docker Certified Associate exam. I'm regularly thinking of personal project concepts, although I must confess, far too many of these have not progressed beyond the idea phase. My current side-project, <a href="https://github.com/michaelhwillingham/NBAProject.Blazor">NBAProject.Blazor</a>, is early in the development lifecycle. I think Blazor is going to be one of the most influential frameworks in the next few years, and wanted to turn this opinion into a proof-of-concept. I'm a believer in my responsibility to contribute back to the development community that gives so freely, and I will try to leverage the bulk of my content here to do just that.
+My passion for software development has grown to be much more than something that pays the bills. In my spare time, I am pursuing a Masters degree in Computer Science from Arizona State (go Sun Devils). I earned my Associate AWS Solutions Architect certification in college, and am currently studying for the Docker Certified Associate exam. I'm regularly thinking of personal project concepts, although I must confess, most of these do not progress beyond the idea phase. My current side-project, <a href="https://github.com/michaelhwillingham/NBAProject.Blazor">NBAProject.Blazor</a>, is early in the development lifecycle. I think Blazor is going to be one of the most influential frameworks in the next few years, and wanted to turn this opinion into a proof-of-concept. I'm a believer in my responsibility to contribute back to the development community that gives so freely, and I will try to leverage the bulk of my content here to do just that.
 
 ## Sports
 
@@ -95,7 +95,7 @@ The proudest accomplishment to date* is <a href="https://texas.forums.rivals.com
     <figcaption><small>Going to pretend that Texas won this game.</small></figcaption>
 </figure>
 
-I also believe that Luka will win MVP this year, and I'm willing to die on that hill. Want to know stats about the Mavs running a historically efficient offense last year? I'm your guy.
+I also believe that Luka will win MVP in 2021, and I'm willing to die on that hill. Want to know stats about the Mavs running a historically efficient offense in 2019? Look no further, I'm your guy.
 
 <figure>
     <img src="/images/cuban.jpeg">
@@ -113,14 +113,14 @@ Outside of just watching sports, I actively try to play basketball as much possi
 <br />
 <figure>
     <img src="/images/basketball.jpg">
-    <figcaption><small>I mean just look at that lockdown defense.</small></figcaption>
+    <figcaption><small>I mean just <em>look</em> at that lockdown defense.</small></figcaption>
 </figure>
 
 <br />
 <small>DISCLAIMERS:</small>
 <br />
 <br />
-<small>* To my parents and any future spouse/children/employers, I am only kidding about the flight tracking thing being my proudest accomplishment.</small>
+<small>* To my parents and any future spouse/children/employer, I am only kidding about the flight tracking thing being my proudest accomplishment.</small>
 <br />
 <br />
 <small>** Maybe "dominant" is a stretch. My stat line is 0.0 points per game, 0.8 rebounds per game, 0.3 assists per game, and 0.3 turnovers per game. Highlights include shooting 2 three-pointers during my career and missing them both. One was a <em>nasty</em> airball.</small>
@@ -162,7 +162,7 @@ My primary hobbies outside of tech and sports include exploring the outdoors (na
 <br />
 <br />
 
-If you actually cared enough to read to this point, you're a trooper. I appreciate it.
+If you actually cared enough to read all of this - you are a trooper. I appreciate it.
 
 <br />
 
