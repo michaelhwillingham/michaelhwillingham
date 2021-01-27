@@ -19,11 +19,11 @@ By the grace of God, when I was at my lowest point, an Uber driver named Tonya s
 
 The friendships I've made in this new season of life have been some of the most life-giving relationships that I can remember. I got involved in a student ministry during my senior year called <a href="https://stumo.org">Student Mobilization</a>, which grew me in countless ways. Jason Kuhlman, the former director of UT StuMo, spent innumerable hours investing in me as a man of God. I am forever indebted to him. I spent two years living with a wonderful group of Christian men (Moe, MSG, Nick, TCol, and JP) who challenged me, encouraged me, and bonded with me deeper than any other friendships I've had. Unexpectedly, new life was breathed into the relationship between me and my childhood best friend Thomas, who is now pursuing Christ in Charlotte, NC - we are closer than we ever have been. These friendships, and so many more, give me constant encouragement over the power that the gospel brings to relationships.
 
-<img src="/images/kaleo.jpeg" class="center">
+<img src="/images/kaleo.jpeg">
 
 As of 2019, I've been a member of <a href="https://redeemerpres.org">Redeemer Presbyterian Church</a> in Austin, where I have been blessed abundantly with fellowship, wise counsel, and regular spiritual nourishment. Before this, I was a partner at the <a href="https://austinstone.org/">Austin Stone</a>'s downtown campus. These two institutions have been profoundly impactful in my walk, and I am grateful for them both.
 
-<img src="/images/redeemer.jpeg" class="center">
+<img src="/images/redeemer.jpeg">
 
 My life's sole purpose, although lived out imperfectly, is to glorify the Lord in all that I do and to help build the kingdom here on earth. I am nothing but a redeemed man in Christ, and I owe every gift that I have to God. I hope to dedicate at least some of the posts here to the Lord - whether that looks like sharing some more of my personal testimony, writing some extremely-amateur biblical commentary, or philosophizing about how the Christian worldview applies to current events.
 
@@ -31,15 +31,15 @@ My life's sole purpose, although lived out imperfectly, is to glorify the Lord i
 
 My interest in tech really took off in college, when I made the impressively foolish decision to drop out my junior year and form a FinTech startup called Vest Technologies. The idea was to mimic the superior (and very cool) algorithmic trading systems of some of the high-performing quant funds (like Jim Simons' <a href="https://www.cnbc.com/2019/11/05/how-jim-simons-founder-of-renaissance-technologies-beats-the-market.html">Medallion fund</a>), and make our fund accessible to non-accredited investors via a Robinhood-like user platform. Said startup crashed and burned after a few tumoltuous months. I *vastly* overestimated my abilities, handled finances very poorly, and was in a not-so-great place in life. However, I scratched the surface of several cool frontiers - trading algorithms with <a href="https://www.tensorflow.org/">TensorFlow</a>; mind-boggling alternative financial data with <a href="https://www.quandl.com/">Quandl</a> APIs; mobile interface development with <a href="https://developer.apple.com/swift/">Swift</a>; and the game-changing concept of cloud computing on <a href="https://aws.amazon.com/">AWS</a>. These topics were totally fascinating to me, and I felt deeply convicted that I needed to pursue some form of a career in tech.
 
-<img src="/images/vest-prototype.png" class="center">
+<img src="/images/vest-prototype.png">
 
 After facing the reality that I was *not* going to be the next Zuckerberg-esque billionaire, I re-enrolled in school. I decided to abandon my finance major, and pivoted to the most tech-oriented program that the McCombs School of Business had to offer - Management Information Systems (MIS). I had the great pleasure of learning from professors that challenged my overconfidence, opened my eyes up to new ways of thinking, and taught me how to efficiently learn things on my own.
 
 I was blessed with a job offer after graduation at a small consulting firm, <a href="https://headspring.com">Headspring</a>. It was here where rubber really started to meet the road. Headspring graciously invested 6 weeks to intensively train my class of junior consultants (pictured in front of the Headspring building) in all things .NET. This was led by one of the smartest developers I have ever come across, Patrick Lioi. After training, I got a desk that was located right next to <a href="https://jimmybogard.com/">Jimmy Bogard</a>, one of the most well-known figures in the .NET world. I got to soak up troves of wisdom by overhearing his architectural calls with big-name clients. I was also blessed to be under the supervision of two incredible tech leads in my project work, Ben Boehme and Kurt Johnson. Ben is pictured next to me in the basketball photo, and Kurt is pictured with me at a Texas football game. These men not only helped me grow in my career, but invested their time to form a genuine relationship with me. My coach/mentor, Matt Siegel, challenged me regularly to be *excellent* at my job. A few of the older Christian men at the company provided me with abundant wise counsel and spiritual fellowship. The way all these factors came together convinced me that this was meant to be my calling in terms of a career. Not to sound sappy, but the relationships here were by far the best part of it all. Headspring has permanently etched itself a place in my heart, and I am incredibly grateful for all they've provided me.
 
-<img src="/images/headspring-class.jpeg" class="center">
-<img src="/images/headspring-bball.jpeg" class="center">
-<img src="/images/kurt.jpeg" class="center">
+<img src="/images/headspring-class.jpeg">
+<img src="/images/headspring-bball.jpeg">
+<img src="/images/kurt.jpeg">
 
 In mid-2020, I was offered an exciting new opportunity with <a href="https://www2.deloitte.com/us/en/pages/technology/solutions/application-modernization.html">Deloitte's Application Modernization Studio</a>. This team was originally a German startup that was acquired by Deloitte in 2017, and they had several lofty initiatives that were just starting during the time of my interviews - moving from SVN to git; migrating to AWS; and expanding their .NET expertise. The prospect of helping an organization with these efforts from the ground-up was impossible for me to turn down. My official title is "Build Engineer", but I have been given plenty of autonomy and trust to get my hands dirty with several different topics - including some .NET development, which is admittedly still my favorite. So far I am enjoying the experience of working for a big, multi-national firm that has its hands in almost everything. I've been blessed here with awesome mentors and co-workers, both in Germany and in Austin, who truly care about my success. I'm genuinely excited for what the future holds here. For those of you that are interested, I have attached a short video on what the Studio does at a high level.
 
@@ -59,12 +59,12 @@ I'll keep this part short. I follow these teams with a fiery passion:
 
 My proudest accomplishment to date* is <a href="https://texas.forums.rivals.com/threads/flight-tracking-alert.501401/">my thread on Orangebloods</a>, which orchestrated the wild Urban Meyer to Texas flight-tracking saga of Winter 2020. I also believe that Luka will win MVP this year, and I'm willing to die on that hill. In general - if your sporting interests align with any of fine organizations I've listed off, we will probably be friends.
 
-<img src="/images/texas.jpeg" class="center">
-<img src="/images/cuban.jpeg" class="center">
+<img src="/images/texas.jpeg">
+<img src="/images/cuban.jpeg">
 
 Outside of just watching sports, I actively try to play basketball as much possible. It was my central out-of-school activity for many years growing up, and the sport has been an important part of my life. From my recent, <a href="https://leagues.uhlife.com/profile_career.aspx?RegionID=10&SeasonDivisionID=3220&PlayerID=34170">statistically *dominant***</a> 2019 season playing with Life Time, I think it is fair to say that I've still got it.
 
-<img src="/images/basketball.jpg" class="center">
+<img src="/images/basketball.jpg">
 
 <br />
 <small>* To my parents and any future spouse/children/job recruiters, I am only kidding about the flight tracking thing being my proudest accomplishment.</small>
@@ -76,11 +76,11 @@ Outside of just watching sports, I actively try to play basketball as much possi
 
 My primary hobbies outside of tech and sports include exploring the outdoors (namely via hiking and skiing), homebrewing beer, dishing out political hot takes to my friends, nerding out on history, and being a self-nominated *elite* movie-picker and Spotify playlist-maker. If I have anything neat to share in these regards, I'll be sure to post it here.
 
-<img src="/images/rmnp.jpeg" class="center">
-<img src="/images/homebrew.jpeg" class="center">
-<img src="/images/winterblondes.jpeg" class="center">
-<img src="/images/skiing.jpeg" class="center">
-<img src="/images/supreme-court.jpeg" class="center">
+<img src="/images/rmnp.jpeg">
+<img src="/images/homebrew.jpeg">
+<img src="/images/winterblondes.jpeg">
+<img src="/images/skiing.jpeg">
+<img src="/images/supreme-court.jpeg">
 
 <br />
 <br />
