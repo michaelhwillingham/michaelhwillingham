@@ -13,7 +13,7 @@ The single most important development in my life has been the decision to follow
 
 <figure>
     <img src="/images/baptism.jpeg">
-    <figcaption>Getting baptised by one of my spiritual mentors, Jason.</figcaption>
+    <figcaption><small>Getting baptised by one of my spiritual mentors, Jason.</small></figcaption>
 </figure>
 
 I did not grow up in a religious household, and spent the first ~20 years of my life wavering between spiritual apathy and firm atheism. I ultimately pursued my own gratification and pleasure at every turn, and had countless broken relationships with friends, significant others, and family. Almost always I was the one at fault for that brokenness. In college, I chose to enter into a dizzying maze of substance abuse, status-chasing, and selfishly impure relationships with women.
@@ -24,14 +24,14 @@ The friendships I've made in this new season of life have been some of the most 
 
 <figure>
     <img src="/images/hcubies.jpeg">
-    <figcaption>All of my former roomates minus TCol - he was busy getting married or something when this was taken.</figcaption>
+    <figcaption><small>All of my former roomates minus TCol - he was busy getting married or something when this was taken.</small></figcaption>
 </figure>
 
 As of 2019, I've been a member of <a href="https://redeemerpres.org">Redeemer Presbyterian Church</a> in Austin, where I have been blessed abundantly with fellowship, wise counsel, and regular spiritual nourishment. Before this, I was a partner at the <a href="https://austinstone.org/">Austin Stone</a>'s downtown campus. These two institutions have been profoundly impactful in my walk, and I am grateful for them both.
 
 <figure>
     <img src="/images/redeemer.jpeg">
-    <figcaption>My Redeemer small group, led by the wonderful McBee family.</figcaption>
+    <figcaption><small>My Redeemer small group, led by the wonderful McBee family.</small></figcaption>
 </figure>
 
 My life's sole purpose, although lived out imperfectly, is to glorify the Lord in all that I do and to help build the kingdom here on earth. I am nothing but a redeemed man in Christ, and I owe every gift that I have to God. I hope to dedicate at least some of the posts here to the Lord - whether that looks like sharing some more of my personal testimony, writing some extremely-amateur biblical commentary, or philosophizing about how the Christian worldview applies to current events.
@@ -42,7 +42,7 @@ My interest in tech really took off in college, when I made the impressively foo
 
 <figure>
     <img src="/images/vest-prototype.png">
-    <figcaption>I guess dark mode wasn't a big enough thing in early 2017, yeesh.</figcaption>
+    <figcaption><small>I guess dark mode wasn't a big thing yet in early 2017, yeesh.</small></figcaption>
 </figure>
 
 After facing the reality that I was *not* going to be the next Zuckerberg-esque billionaire (womp womp), I re-enrolled in school. I decided to abandon my finance major, and pivoted to the most tech-oriented program that the McCombs School of Business had to offer - Management Information Systems (MIS). I had the great pleasure of learning from professors that challenged my overconfidence, opened my eyes up to new ways of thinking, and taught me how to efficiently learn things on my own.
@@ -53,20 +53,19 @@ I was blessed with a job offer after graduation at a small consulting firm calle
 
 <figure>
     <img src="/images/headspring-class.jpeg">
-    <figcaption>My class of Headspring junior consultants in the "CareerStart" training program.</figcaption>
+    <figcaption><small>My class of Headspring junior consultants in the <em>CareerStart</em> training program.</small></figcaption>
 </figure>
 
 After training, I got a desk that was located right next to <a href="https://jimmybogard.com/">Jimmy Bogard</a>, one of the most well-known figures in the .NET world. I got to soak up troves of wisdom by overhearing his architectural calls with big-name clients. I was also blessed to be under the supervision of two incredible tech leads in my project work, Ben Boehme and Kurt Johnson. Ben is pictured next to me in the basketball photo, and Kurt is pictured with me at a Texas football game. These men not only helped me grow in my career, but invested their time to form a genuine relationship with me.
 
 <figure>
     <img src="/images/headspring-bball.jpeg">
-    <figcaption>Hooping it up with the coworkers.</figcaption>
+    <figcaption><small>Hooping it up with my Headspring coworkers.</small></figcaption>
 </figure>
-<br />
 <br />
 <figure>
     <img src="/images/kurt.jpeg">
-    <figcaption>This was when Texas opened the season against Louisiana Tech. Per usual, it was the start to a disappointing year in UT football.</figcaption>
+    <figcaption><small>This was when Texas opened the season against Louisiana Tech. Per usual, it was the start to a disappointing year in UT football.</small></figcaption>
 </figure>
 
 My Headspring coach/mentor, Matt Siegel, challenged me regularly to be *excellent* at my job and was unafraid to tell me the areas where I could improve. A few of the older Christian men at the company abundantly provided me with wise counsel and spiritual fellowship. The way all these factors came together convinced me that this career was meant to be my calling. Not to sound sappy, but the relationships were by far the best part. Headspring has permanently etched itself a place in my heart, and I am incredibly grateful for all they've provided me.
@@ -93,14 +92,14 @@ The proudest accomplishment to date* is <a href="https://texas.forums.rivals.com
 
 <figure>
     <img src="/images/texas.jpeg">
-    <figcaption>Going to pretend that Texas won this game.</figcaption>
+    <figcaption><small>Going to pretend that Texas won this game.</small></figcaption>
 </figure>
 
 I also believe that Luka will win MVP this year, and I'm willing to die on that hill. Want to know stats about the Mavs running a historically efficient offense last year? I'm your guy.
 
 <figure>
     <img src="/images/cuban.jpeg">
-    <figcaption>A photo from my short-lived youth career as a Mavericks ball-boy.</figcaption>
+    <figcaption><small>A photo from my short-lived youth career as a Mavericks ball-boy.</small></figcaption>
 </figure>
 
  In general - if your sporting interests align with any of the fine organizations I've listed off, we will probably be friends.
@@ -108,16 +107,18 @@ I also believe that Luka will win MVP this year, and I'm willing to die on that 
 Outside of just watching sports, I actively try to play basketball as much possible. It was my central out-of-school activity for many years growing up, and the sport has been an important part of my life. From my recent, <a href="https://leagues.uhlife.com/profile_career.aspx?RegionID=10&SeasonDivisionID=3220&PlayerID=34170">statistically *dominant***</a> 2019 season playing with Life Time, I think it is fair to say that I've still got it.
 
 <figure>
-    <img src="/images/middle-school.jpg">
-    <figcaption>Clearly did not hit arm day in middle school.</figcaption>
+    <img src="/images/middle-school.jpeg">
+    <figcaption><small>Clearly did not hit arm day in middle school.</small></figcaption>
 </figure>
-<br />
 <br />
 <figure>
     <img src="/images/basketball.jpg">
-    <figcaption>I mean just look at that lockdown defense.</figcaption>
+    <figcaption><small>I mean just look at that lockdown defense.</small></figcaption>
 </figure>
 
+<br />
+<small>DISCLAIMERS:</small>
+<br />
 <br />
 <small>* To my parents and any future spouse/children/employers, I am only kidding about the flight tracking thing being my proudest accomplishment.</small>
 <br />
@@ -131,31 +132,27 @@ My primary hobbies outside of tech and sports include exploring the outdoors (na
 
 <figure>
     <img src="/images/rmnp.jpeg">
-    <figcaption>Near the top of the Sky Pond trail in Rocky Mountain National Park, with my friend Thomas.</figcaption>
+    <figcaption><small>Near the top of the Sky Pond trail in Rocky Mountain National Park, with my friend Thomas.</small></figcaption>
 </figure>
-<br />
 <br />
 <figure>
     <img src="/images/homebrew.jpeg">
-    <figcaption>Brewing my first batch of homebrew, "Don't Red on Me", in the backyard. A few blades of grass made it into the fermenting jug.</figcaption>
+    <figcaption><small>Brewing my first batch of homebrew, "Don't Red on Me", in the backyard. A few blades of grass made it into the fermenting jug.</small></figcaption>
 </figure>
-<br />
 <br />
 <figure>
     <img src="/images/winterblondes.jpeg">
-    <figcaption>My second batch of homebrew, a German blonde ale.</figcaption>
+    <figcaption><small>My second batch of homebrew, a German blonde ale.</small></figcaption>
 </figure>
-<br />
 <br />
 <figure>
     <img src="/images/skiing.jpeg">
-    <figcaption>Skiing at Purgatory with my brother Ryan.</figcaption>
+    <figcaption><small>Skiing at Purgatory with my brother Ryan.</small></figcaption>
 </figure>
-<br />
 <br />
 <figure>
     <img src="/images/supreme-court.jpeg">
-    <figcaption>Power pose at the Supreme Court.</figcaption>
+    <figcaption><small>Power pose at the Supreme Court.</small></figcaption>
 </figure>
 <br />
 <br />
