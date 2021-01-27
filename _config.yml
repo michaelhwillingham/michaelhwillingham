@@ -18,7 +18,7 @@ author:
 # Hero Settings
 hero:
   title: Michael Willingham
-  description: Musings on .NET, DevOps, and Cloud
+  description: Musings on tech, sports, and faith
   image: '/images/index-header.jpeg'
 
 
@@ -26,7 +26,7 @@ hero:
 # Contact Settings
 contact:
   email: michaelhwillingham@protonmail.com # Add your email for contact form
-  description: Let's talk! # Add a description of your form
+  description: # Add a description of your form
 
 # NOTE
 # Norlin theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
