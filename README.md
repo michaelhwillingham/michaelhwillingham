@@ -7,7 +7,7 @@ Howdy 👋
 
 I’m Michael, a software nerd from Austin, Texas. My 9-5 job is build engineering, but I have a passion for .NET development on the side. My GitHub is a smorgasbord of personal stuff and other people's projects that I find cool. 
 
-Want to know more about me? [Check out my site.](https://michaelhwillingham.github.io/)
+Want to know more about me? [Check out my site.](https://www.michaelhwillingham.dev/)
 
 ## 📌 Pinned Repositories
 
